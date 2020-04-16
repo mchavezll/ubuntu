@@ -1,4 +1,3 @@
 Esto es una prueba
 linea de referencia
-Nueva linea de codigo
-Nueva linea de codigo 2
+Nueva linea
